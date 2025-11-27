@@ -3,8 +3,8 @@ const searchInput = document.getElementById("searchInput");
 const categoryFilter = document.getElementById("categoryFilter");
 
 const products = [
-  { name: "AXLE HOUSING -FRONT", image: "images/AXLE HOUSING -F.jpg", category: "PTCL"   },
-  { name: "AXLE HOUSING -BACK", image: "images/AXLE HOUSING -B.jpg", category: "PTCL"   },
+  { name: "AXLE HOUSING ", image: "images/AXLE HOUSING.png", category: "PTCL"   },
+
   { name: "BANJO", image: "images/Banjo.png", category: "PTCL"   },
    { name: "IDLER", image: "images/Idler.png", category: "PTCL"   },
    { name: "PIVOT -RH", image: "images/Pivot RH.png", category: "PTCL"   },
