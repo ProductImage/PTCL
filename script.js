@@ -3,15 +3,18 @@ const searchInput = document.getElementById("searchInput");
 const categoryFilter = document.getElementById("categoryFilter");
 
 const products = [
-  { name: "AXLE HOUSING -Front", image: "images/AXLE HOUSING -F.jpg", category: "PTCL"   },
-  { name: "AXLE HOUSING -Back", image: "images/AXLE HOUSING -B.jpg", category: "PTCL"   },
-  { name: "Banjo", image: "images/Banjo.png", category: "PTCL"   },
-   { name: "Idler", image: "images/Idler.png", category: "PTCL"   },
-   { name: "Pivot -RH", image: "images/Pivot RH.png", category: "PTCL"   },
-   { name: "Support 4544550", image: "images/Support - 4544550.png", category: "PTCL"   },
-   { name: "Support 2432461/62", image: "images/Support 2432461 & 62.png", category: "PTCL"   },
-   { name: "Swivel Pin LH", image: "images/Swivel Pin LH.png", category: "PTCL"   },
-   { name: "Wheel Front", image: "images/Wheel Front-1.png", category: "PTCL"   },  
+  { name: "AXLE HOUSING -FRONT", image: "images/AXLE HOUSING -F.jpg", category: "PTCL"   },
+  { name: "AXLE HOUSING -BACK", image: "images/AXLE HOUSING -B.jpg", category: "PTCL"   },
+  { name: "BANJO", image: "images/Banjo.png", category: "PTCL"   },
+   { name: "IDLER", image: "images/Idler.png", category: "PTCL"   },
+   { name: "PIVOT -RH", image: "images/Pivot RH.png", category: "PTCL"   },
+   { name: "SUPPORT 4544550", image: "images/Support - 4544550.png", category: "PTCL"   },
+   { name: "SUPPORT 2432461/62", image: "images/Support 2432461 & 62.png", category: "PTCL"   },
+   { name: "SWIVEL PIN LH", image: "images/Swivel Pin LH.png", category: "PTCL"   },
+   { name: "WHEEL FRONT", image: "images/Wheel Front-1.png", category: "PTCL"   },  
+     { name: "TOOTH POINT", image: "images/OEM ADAPTER.png", category: "PTCL"   }, 
+     { name: "OEM ADAPTER", image: "images/OEM TOOTH POINT.png", category: "PTCL"   }, 
+     { name: "OEM TOOTH POINT", image: "images/TOOTH POINT.png", category: "PTCL"   }, 
 
  ];
 
